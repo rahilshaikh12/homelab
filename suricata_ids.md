@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suricata IDS
+title: Suricata
 ---
 
 To deploy the intrusion detection system, I installed Suricata from the official Open Information Security Foundation (OISF) repository to ensure I was running the latest stable build:
