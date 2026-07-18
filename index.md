@@ -1,6 +1,9 @@
 ---
 layout: home
+title: Home
 ---
+
+# Centralized Threat Detection & NSM Architecture
 
 Welcome to my Network Security Monitoring (NSM) lab documentation. To bridge the gap between theoretical security concepts and hands-on detection engineering, I architected and deployed this security stack from the ground up.
 
