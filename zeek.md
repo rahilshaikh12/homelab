@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zeek NSM
+title: Zeek
 ---
 
 To complement Suricata's signature-based detection, I deployed Zeek to capture rich, protocol-level network forensics. Because Zeek is not maintained in Ubuntu’s default repositories, I pulled the package directly from the official Zeek OpenSUSE repository.
